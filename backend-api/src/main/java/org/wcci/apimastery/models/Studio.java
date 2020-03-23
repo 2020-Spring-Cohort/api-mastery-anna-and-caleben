@@ -1,4 +1,6 @@
-package org.wcci.apimastery;
+package org.wcci.apimastery.models;
+
+import org.wcci.apimastery.models.Game;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
